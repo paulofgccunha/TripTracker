@@ -24,6 +24,7 @@
       "TripTracker.BackService/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.5",
+          "Microsoft.EntityFrameworkCore": "2.0.1",
           "Microsoft.NETCore.App": "2.0.0",
           "Swashbuckle.AspNetCore": "1.1.0"
         },
