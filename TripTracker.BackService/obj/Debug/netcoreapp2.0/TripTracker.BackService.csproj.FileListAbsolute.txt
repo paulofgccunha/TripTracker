@@ -1,0 +1,11 @@
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.deps.json
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.runtimeconfig.json
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.runtimeconfig.dev.json
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.dll
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.pdb
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.csprojResolveAssemblyReference.cache
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.dll
+C:\Users\paulo\OneDrive\Projects\FritzWorkshop\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.pdb
